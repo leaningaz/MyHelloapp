@@ -2,6 +2,7 @@ Pizza Receipe by Learningaz
 
 Go to Pizza shop
 Select the Pizza of your choice
+Select Payment Mode
 Order
 
 
